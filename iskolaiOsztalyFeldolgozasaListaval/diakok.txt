@@ -1,0 +1,301 @@
+1;Fiú;Bognur Kapolcs;7/d
+2;Lány;Sulcz Klarissza;7/b
+3;Lány;Buzás Édua;7/c
+4;Lány;Vay Gertrúd Valentina;5/c
+5;Lány;Vadász Natália;6/b
+6;Fiú;Diószegi Holló;7/c
+7;Lány;Michalocski Kamélia;5/b
+8;Fiú;Bacsóka Jakab Szíriusz;7/c
+9;Lány;Stiblovszki Georgina;7/b
+10;Lány;Moós Mahália;5/a
+11;Lány;Sirásó Alfréda;6/c
+12;Fiú;Studurter Kenéz;5/d
+13;Fiú;Borbély Kenéz;7/c
+14;Lány;Pauleczki Kornélia;5/d
+15;Fiú;Veleczki Apostol;6/c
+16;Lány;Beloinszki Szibilla;8/a
+17;Fiú;Bálványosi Márton;5/d
+18;Fiú;Takács Celesztin Filomén;5/a
+19;Lány;Világi Nikolett;5/d
+20;Fiú;Komáromi Lévi;6/d
+21;Lány;Godó Ladiszla;6/d
+22;Fiú;Matylák Konstantin;7/d
+23;Fiú;Rabóczi Elmár;8/c
+24;Fiú;Bajzák Rigler Gellért;7/d
+25;Lány;Majoros Manon;8/b
+26;Lány;Üveges Alfréda;7/c
+76;Fiú;Kuremszki Fabó;8/c
+77;Lány;Beszpremi Belénszky Antonella;8/b
+78;Lány;Kupecz Irina;6/a
+79;Fiú;Csákó Germán;7/b
+80;Lány;Semsei Leonóra;7/d
+81;Fiú;Kossuth Rodion;5/b
+82;Lány;Viták Füzike;6/b
+83;Lány;Sveda Seherezádé;7/b
+84;Lány;Horgos Atália;7/a
+85;Lány;Tokos Maura;5/b
+86;Lány;Huszina Teodolinda;6/d
+87;Fiú;Martsek Anatol;6/b
+88;Lány;Rajnai Fiametta;8/c
+89;Lány;Keisler Sonkos Leona;5/a
+90;Fiú;Császár Tokár Sebő;7/b
+91;Lány;Beregoczki Judit;7/c
+92;Fiú;Fidler Szaniszló Hamilkár;8/b
+93;Lány;Setnega Ila;6/c
+94;Fiú;Beregoczki Nikodémusz;7/a
+95;Fiú;Gutman Rodrigó;5/a
+96;Lány;Ladányi Hermina;7/d
+97;Fiú;Albert Terebesi Baltazár;6/a
+98;Lány;Bajos Honória;5/c
+99;Lány;Terniczki Filippa;6/b
+100;Lány;Azari Hedvig;7/c
+101;Lány;Gyulai Antonella;5/a
+102;Lány;Turcsányi Ivett;6/a
+103;Lány;Ligai Mara;6/c
+104;Fiú;Majertsák Miron;5/a
+105;Lány;Gávai Filotea;7/d
+106;Fiú;Ligai Joel;8/a
+107;Fiú;Szénégető Liberátusz;7/b
+108;Lány;Ferenc Ludovika;8/a
+109;Fiú;Filler Lázár;6/b
+110;Fiú;Krupa Orbó;5/c
+111;Lány;Veleczki Oktávia;6/b
+112;Lány;Rusmiczki Adelaida;5/a
+113;Fiú;Bukovics Bagamér;6/b
+114;Lány;Cseki Enciána;6/d
+115;Lány;Stiber Marcella;6/a
+116;Lány;Vicsonka Nadinka;7/d
+117;Lány;Seidenfeld Julianna;5/d
+118;Lány;Bálint Eliza;6/a
+119;Lány;Csernátoni Janka Krizanta;8/c
+120;Fiú;Oldal Bottyán;6/c
+121;Lány;Gyömbér Jusztina;5/a
+122;Lány;Solcz Elvira;5/a
+123;Lány;Gulyás Aletta;5/a
+124;Fiú;Ender Abelárd;7/b
+125;Lány;Tapolczai Elza;6/d
+126;Fiú;Nikolaus Mátyás;7/b
+127;Lány;Flór Amadil;5/c
+128;Fiú;Visnovszki Ráfis Patrícius;5/c
+129;Lány;Horovitz Rufina;5/a
+130;Lány;Puskás Amábel;6/d
+131;Fiú;Peller Uriel;8/c
+132;Lány;Heimlich Letanovics Rudolfina;8/a
+133;Lány;Kuhár Adél;6/d
+134;Fiú;Balsai Líviusz;7/b
+135;Lány;Vitányi Irma;8/a
+136;Lány;Szuklina Zella;8/c
+137;Lány;Orosz Magdolna;8/c
+138;Lány;Kerhács Viktorina;5/c
+139;Lány;Bacskai Blandina;6/d
+140;Fiú;Szedliczki Viktor;8/c
+141;Lány;Üveges Zina;6/c
+142;Lány;Seidenfeld Violetta;5/a
+143;Fiú;Bíró Lázár;8/a
+144;Fiú;Martsek Axel;8/b
+145;Fiú;Császár Vitéz;8/b
+146;Fiú;Matyi Pelágiusz;7/b
+147;Fiú;Selyesztáli Lajos;6/c
+148;Fiú;Kerülő Rusztem;5/a
+149;Lány;Berger Boriska;8/c
+150;Lány;Gönczi Zöldike;5/b
+151;Fiú;Marton Kelen;5/d
+152;Lány;Lövei Emma;7/a
+153;Lány;Semba Hermina Rodelinda;7/a
+154;Lány;Selyesztáli Alberta;6/a
+155;Lány;Makranczi Etel;6/b
+156;Lány;Csernátoni Viktória;8/b
+157;Lány;Seidenfeld Klaudetta;6/b
+158;Lány;Csernátoni Ninetta;7/a
+159;Lány;Hajósi Réta;5/b
+160;Fiú;Veres Pellegrin;7/b
+161;Fiú;Vinnai Alán;6/b
+162;Lány;Ardon Robertina;5/c
+163;Fiú;Bajusz Malakiás;7/a
+164;Lány;Szücs Héra Pintyőke;6/d
+165;Lány;Voktel Lilla;5/b
+166;Lány;Habina Gunda;6/d
+167;Fiú;Belánszky Tasziló;5/c
+168;Fiú;Bregovszki Zerind;8/a
+169;Lány;Matusz Havaska Alida;7/c
+170;Lány;Füredi Konkordia;5/c
+171;Fiú;Imrej Leon;6/a
+172;Lány;Szabó Celeszta;6/d
+173;Fiú;Banácskai Adony;6/c
+174;Lány;Petrányi Auguszta;7/c
+175;Lány;Pintér Ofélia;5/a
+176;Lány;Kalmár Dalida;7/c
+177;Lány;Nemes Itala;8/c
+178;Lány;Sipos Elma;6/a
+179;Fiú;Radvánszki Járfás;5/b
+180;Lány;Hanis Kiliána;8/a
+181;Lány;Bankovics Hóvirág;5/b
+182;Fiú;Diószegi Gyárfás;6/d
+183;Lány;Bájer Irén;6/d
+184;Lány;Vitak Ulrika Odília;7/c
+185;Lány;Bela Zseraldina;8/a
+186;Fiú;Gabura Atád;7/d
+187;Lány;Bencze Tünde;5/d
+188;Lány;Korpás Izabella;6/c
+189;Lány;Bolha Baranyi Gerle;7/b
+190;Lány;Fazekas Ariadné;8/b
+191;Fiú;Jaruzevics Tarján;5/b
+192;Fiú;Szemerdák Immánuel;6/a
+193;Lány;Szatmári Melióra;5/d
+194;Lány;Matisz Zója;5/d
+195;Fiú;Bársony Mihály;6/c
+196;Lány;Borbó Amázia Benedikta;7/c
+197;Lány;Béres Kriszta;6/c
+198;Lány;Horváth Norina;6/a
+199;Lány;Ökör Zina;8/b
+200;Lány;Bik Mietta;7/d
+201;Lány;Vitronka Teodolinda;5/b
+202;Lány;Kuhár Pasztorella;7/c
+203;Lány;Kilián Fehérke;7/b
+204;Fiú;Mándoki Sándor;8/b
+205;Fiú;Pesta Germán;7/d
+206;Fiú;Szelei Kleofás;8/b
+207;Lány;Csiky Benjamina;5/c
+208;Fiú;Szemerdák Bartos;6/c
+209;Lány;Kuril Indira Tercia;8/b
+210;Fiú;Nikita Teobald;8/a
+211;Lány;Tóth Alexia;6/b
+212;Lány;Diószegi Sándor Kármen;5/a
+213;Lány;Kiszely Zsuzsa;6/c
+214;Lány;Varkoly Zebesi Dalida;6/b
+215;Lány;Sloszárik Manon;6/a
+216;Fiú;Berger Karád;7/a
+217;Lány;Járási Ariadné;5/b
+218;Lány;Gelniczi Melióra;7/c
+219;Fiú;Zavatka Dömötör;8/a
+220;Lány;Boka Viola Evelin;5/c
+221;Lány;Albert Dosnyák Kincső;6/c
+222;Lány;Gelniczi Filoméla;8/c
+223;Lány;Veleczki Minna;7/b
+224;Lány;Fischer Fortuna;7/b
+225;Fiú;Szedikár Zsombor;6/a
+226;Lány;Rozovics Peónia;5/c
+227;Lány;Borisz Paulina;5/a
+228;Lány;Erős Patre Reményke;7/d
+229;Fiú;Szenes Dalibor;6/d
+230;Lány;Rajnai Diána;8/c
+231;Lány;Petró Iza;5/a
+232;Lány;Bocsárszki Valentina;7/c
+233;Lány;Törös Petronella;7/c
+234;Lány;Szelikán Rozamunda;7/b
+235;Fiú;Ernyicz Fóris;6/c
+236;Fiú;Litner Elmó;8/b
+237;Fiú;Lakatos Csombor;6/d
+238;Lány;Berniczi Ramóna;8/b
+239;Fiú;Solymári Elígiusz;8/c
+240;Lány;Beregoczki Letícia;5/c
+241;Lány;Krupa Szalvia;8/c
+242;Lány;Frankel Gemella;8/a
+243;Fiú;Dankó Rúfusz;6/c
+244;Lány;Kéményes Fernanda;6/a
+245;Fiú;Mikulecz Szólát;6/d
+246;Lány;Pesta Cintia;7/c
+247;Lány;Viltsur Rajmunda;7/b
+248;Lány;Bencze Rozmarin;5/c
+249;Lány;Bencsek;6/c
+250;Lány;Zanóczi Amarilla;6/b
+251;Lány;Pongrácz Viviána;8/b
+252;Lány;Téglás Hanna;8/b
+253;Lány;Kazimir Edvina;8/a
+254;Lány;Czirkus Ervina;7/c
+255;Lány;Rajtsák Nerina;6/d
+256;Fiú;Meleg Fausztusz;5/c
+257;Lány;Kanyuk Oktávia;5/a
+258;Fiú;Muszka Hippolit;5/c
+259;Fiú;Vinnai Csörsz;5/a
+260;Lány;Suták Vaszília Vera;5/d
+261;Lány;Iván Ibolya;8/c
+262;Lány;Barkóczki Metta;8/c
+263;Lány;Ökör Kajandik Irén;5/a
+264;Lány;Karajos Kalliszta;7/c
+265;Lány;Budai Rikarda;5/a
+266;Lány;Markovszki Teodóra;6/a
+267;Lány;Baranyi Oktávia;5/c
+268;Lány;Bajzák Adriána;6/b
+269;Lány;Rozovics Alinka;8/a
+270;Lány;Görgei Tamara;5/d
+271;Lány;Hamvai Ninetta Fausztina;5/a
+272;Lány;Szobonya Melina;7/c
+273;Lány;Palkovics Pelágia;6/d
+274;Lány;Kostfi Genovéva;8/c
+275;Lány;Király Kalliopé;5/a
+276;Fiú;Bölkei Kötöny Dezső;7/a
+277;Fiú;Natafalusi Benedek Verner Csobán;6/a
+278;Lány;Cselőtei Norberta;5/c
+279;Lány;Szebényi Médea;6/b
+280;Fiú;Vékási Bonifác;6/a
+281;Lány;Zebesi Ella;8/b
+282;Lány;Révész Nefelejcs;5/c
+283;Lány;Pajnoga Henrietta;7/d
+284;Lány;Musela Viktória Samuella;5/a
+285;Lány;Polyák Mietta;5/a
+286;Lány;Patonay Eliána;5/c
+287;Fiú;Vas Laborc;5/a
+288;Fiú;Stimák Rápolt;6/b
+289;Lány;Báthori Őzike;6/a
+290;Lány;Galanszki Sarolta;7/d
+291;Lány;Zavatka Teréz;5/d
+292;Lány;Kupecz Asztalos Gréta;7/a
+293;Fiú;Kvaszinger Florentin;6/d
+294;Fiú;Bakos Marcián;5/a
+295;Lány;Moós Fekete Alinka;6/a
+296;Lány;Obra Franciska Albertina;8/c
+297;Fiú;Kabai Dabás Móric;8/a
+298;Lány;Hipik Friderika;6/b
+299;Fiú;Orsós Zakariás;7/c
+300;Fiú;Gyökér Anzelm;6/c
+301;Fiú;Terebesi Dárius Géza;7/c
+27;Fiú;Orlovics Jenő;7/c
+28;Lány;Morzsa Ágota;5/c
+29;Lány;Csernátoni Marcellina;6/a
+30;Lány;Kuhár Hanák Teréz;7/a
+31;Lány;Jagerszki Vaszília;6/d
+32;Fiú;Natkó Alfonz;7/a
+33;Lány;Rák Jozefina;8/c
+34;Lány;Rampa Hajna;8/c
+35;Lány;Jelenik Dorina;6/c
+36;Lány;Békési Timótea;8/a
+37;Fiú;Abrankó Szólát;5/a
+38;Lány;Viták Grácia;7/d
+39;Lány;Hajnal Dóra;7/a
+40;Lány;Erdősi Miletta Indira;7/d
+41;Fiú;Supiczki Vitéz Botond;5/c
+442;Lány;Izsák Gizella;5/b
+43;Lány;Hudák Eszmeralda;5/d
+44;Lány;Vilemszki Galamb;5/c
+45;Lány;Reviczki Kató;5/b
+46;Lány;Heimlich Nanda;6/d
+47;Fiú;Mikolai Ivor;6/c
+48;Lány;Balázs Delinke;5/b
+49;Lány;Farkas Zamfira;8/b
+50;Fiú;Matylák Tádé Alán;8/c
+51;Fiú;Vida Varsány;6/d
+52;Lány;Gazdig Evetke;8/c
+53;Fiú;Funke Arvid;5/a
+54;Fiú;Bodzás Timon;6/c
+55;Lány;Patonay Nyeste;5/c
+56;Lány;Sloszárik Lenke;7/a
+57;Fiú;Krupianka Zdenkó Csobán;5/a
+58;Lány;Bénó Beáta;6/a
+59;Lány;Heimlich Glória;8/c
+60;Lány;Bujdos Arianna Olinda;5/a
+61;Lány;Birkó Kámea;7/d
+62;Fiú;Baslio Lénárd;6/a
+63;Lány;Gombos Őzike;6/b
+64;Lány;Alacskai Kunigunda;6/c
+65;Fiú;Péter Alvin;8/b
+66;Fiú;Bolha Csobán;6/b
+67;Fiú;Szénégető Alárd;6/d
+68;Lány;Járási Leontina;5/d
+69;Lány;Gyöngy Amarillisz;8/a
+70;Fiú;Jedlicska Ottó;8/b
+71;Lány;Gombai Adelinda;8/c
+72;Lány;Führer Leona;6/a
+73;Lány;Bodzás Zamfira;7/d
+74;Lány;Bacskai Velmira;8/c
+75;Lány;Mérai Jella Robertina;5/a
